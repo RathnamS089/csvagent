@@ -1,0 +1,51 @@
+mentee_name,matched_mentor_name,match_reason,confidence_score
+Vikram Das,Rahul Nair,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Arjun Reddy,Aanya Kumar,Matching Domain (Healthcare) & Matching Domain (Bioinformatics),100
+Amit Reddy,Vikram Verma,Matching Domain (Healthcare) & Matching Domain (Medical Imaging),100
+Rahul Patel,Arjun Das,Matching Domain (Healthcare) & Matching Domain (Bioinformatics),100
+Arjun Kumar,Vikram Verma,Matching Domain (Cybersecurity) & Matching Domain (Ethical Hacking),100
+Aanya Patel,Aanya Sharma,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Rohit Reddy,Aanya Gupta,Matching Domain (Cybersecurity) & Matching Domain (Network Security),100
+Rohit Sharma,Aanya Gupta,Matching Domain (Cybersecurity) & Matching Domain (Network Security),100
+Arjun Gupta,Arjun Gupta,Matching Domain (AI) & Matching Domain (Large Language Models),100
+Aanya Singh,Priya Das,Matching Domain (AI) & Matching Domain (Natural Language Processing),100
+Rahul Singh,Rohit Gupta,Matching Domain (Cybersecurity),70
+Arjun Patel,Priya Das,Matching Domain (AI) & Matching Domain (Natural Language Processing),100
+Amit Verma,Amit Reddy,Matching Domain (Cybersecurity) & Matching Domain (Cryptography),100
+Rohit Sharma,Amit Kumar,Matching Domain (Cybersecurity),70
+Vikram Patel,Meera Singh,Matching Domain (Cybersecurity) & Matching Domain (Ethical Hacking),100
+Amit Reddy,Aanya Kumar,Matching Domain (Healthcare) & Matching Domain (Bioinformatics),100
+Priya Reddy,Rohit Rao,Matching Domain (Cybersecurity),70
+Diya Singh,Aanya Rao,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Sneha Kumar,Vikram Verma,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Amit Das,Rahul Nair,Matching Domain (Healthcare) & Matching Domain (Medical Imaging),100
+Diya Verma,Arjun Verma,Matching Domain (Cybersecurity),70
+Meera Rao,Vikram Kumar,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Diya Gupta,Diya Patel,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Meera Nair,Vikram Reddy,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Priya Verma,Meera Kumar,Matching Domain (Cybersecurity) & Matching Domain (Cryptography),100
+Rohit Verma,Diya Singh,Matching Domain (Cybersecurity) & Matching Domain (Cryptography),100
+Aanya Kumar,Rahul Nair,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Diya Reddy,Diya Verma,Matching Domain (Healthcare),70
+Aanya Singh,Diya Kumar,Matching Domain (AI) & Matching Domain (Natural Language Processing),100
+Priya Kumar,Aanya Das,Matching Domain (Healthcare),70
+Arjun Patel,Aanya Das,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Arjun Kumar,Diya Patel,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Amit Gupta,Arjun Das,Matching Domain (Healthcare) & Matching Domain (Bioinformatics),100
+Meera Singh,Rohit Gupta,Matching Domain (Cybersecurity) & Matching Domain (Cryptography),100
+Rahul Nair,Arjun Sharma,Matching Domain (AI) & Matching Domain (Reinforcement Learning),100
+Meera Reddy,Arjun Gupta,Matching Domain (AI) & Matching Domain (Large Language Models),100
+Amit Reddy,Sneha Singh,Matching Domain (AI) & Matching Domain (Reinforcement Learning),100
+Rahul Kumar,Diya Kumar,Matching Domain (AI) & Matching Domain (Natural Language Processing),100
+Vikram Verma,Aanya Das,Matching Domain (Healthcare),70
+Diya Das,Aanya Sharma,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Sneha Singh,Vikram Verma,Matching Domain (Cybersecurity) & Matching Domain (Ethical Hacking),100
+Amit Das,Meera Singh,Matching Domain (Cybersecurity) & Matching Domain (Ethical Hacking),100
+Vikram Rao,Vikram Verma,Matching Domain (Healthcare) & Matching Domain (Genomics),100
+Sneha Reddy,Amit Kumar,Matching Domain (Cybersecurity),70
+Arjun Kumar,Vikram Reddy,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Diya Reddy,Sneha Singh,Matching Domain (AI) & Matching Domain (Reinforcement Learning),100
+Arjun Reddy,Arjun Sharma,Matching Domain (AI),70
+Amit Nair,Aanya Rao,Matching Domain (AI) & Matching Domain (Computer Vision),100
+Meera Rao,Amit Reddy,Matching Domain (Cybersecurity),70
+Diya Reddy,Arjun Verma,Matching Domain (Cybersecurity),70
